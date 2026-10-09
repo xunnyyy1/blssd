@@ -125,7 +125,7 @@ if __name__ == "__main__":
         or config.get("token")
         or ""
     ).strip()
-    if not token or token == "YOUR_BOT_TOKEN_HERE":
+    if not token or token == "MTU1ODAwMjQ1ODU2NTkzOTI2MQ.GmSYLi.tQ3u2YqF1GfNDiAKxdS-hB3D_mO82bakutjpvU":
         log.error("No bot token found! Please put your token in config.json or set the TOKEN environment variable in Render.")
         sys.exit(1)
     bot.run(token, log_handler=None)
