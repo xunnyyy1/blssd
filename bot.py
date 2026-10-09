@@ -94,7 +94,7 @@ class AntiNukeBot(commands.Bot):
 bot = AntiNukeBot()
 
 if __name__ == "__main__":
-    token = os.environ.get("DISCORD_BOT_TOKEN", "")
+    token = os.environ.get("MTU1ODAwMjQ1ODU2NTkzOTI2MQ.Gal09z.LDypqb1icoFfswIW1E4zsJZCnZEXvFUOamGZa4", "")
     if not token:
         log.error("No bot token set! Set the DISCORD_BOT_TOKEN environment variable.")
         exit(1)
