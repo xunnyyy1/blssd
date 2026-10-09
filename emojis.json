@@ -1,0 +1,54 @@
+{
+  "_comment": "Replace these with your own custom emoji IDs. Format: <:name:id> or <a:name:id> for animated.",
+  "_how_to": "Go to your server, type \\:emoji_name: in chat to get the ID, then paste the full string here.",
+
+  "dot_green":      "<:dot_green:1234560000000000001>",
+  "dot_red":        "<:dot_red:1234560000000000002>",
+  "dot_orange":     "<:dot_orange:1234560000000000003>",
+  "dot_gray":       "<:dot_gray:1234560000000000004>",
+
+  "members":        "<:members:1234560000000000010>",
+  "bot":            "<:bot:1234560000000000011>",
+  "online":         "<:online:1234560000000000012>",
+  "offline":        "<:offline:1234560000000000013>",
+
+  "text_channel":   "<:text_channel:1234560000000000020>",
+  "voice_channel":  "<:voice_channel:1234560000000000021>",
+  "category":       "<:category:1234560000000000022>",
+  "thread":         "<:thread:1234560000000000023>",
+
+  "id":             "<:id:1234560000000000030>",
+  "owner":          "<:owner:1234560000000000031>",
+  "calendar":       "<:calendar:1234560000000000032>",
+  "joined":         "<:joined:1234560000000000033>",
+  "role":           "<:role:1234560000000000034>",
+  "badge":          "<:badge:1234560000000000035>",
+  "boost":          "<:boost:1234560000000000036>",
+  "verified":       "<:verified:1234560000000000037>",
+
+  "followers":      "<:followers:1234560000000000040>",
+  "following":      "<:following:1234560000000000041>",
+  "posts":          "<:posts:1234560000000000042>",
+  "private":        "<:private:1234560000000000043>",
+  "globe":          "<:globe:1234560000000000044>",
+  "link":           "<:link:1234560000000000045>",
+
+  "latency":        "<:latency:1234560000000000050>",
+  "shield":         "<:shield:1234560000000000051>",
+  "warning":        "<:warning:1234560000000000052>",
+  "error":          "<:error:1234560000000000053>",
+  "success":        "<:success:1234560000000000054>",
+  "loading":        "<a:loading:1234560000000000055>",
+
+  "instagram":      "<:instagram:1234560000000000060>",
+  "avatar":         "<:avatar:1234560000000000061>",
+  "banner":         "<:banner:1234560000000000062>",
+  "emoji_icon":     "<:emoji_icon:1234560000000000063>",
+  "sticker":        "<:sticker:1234560000000000064>",
+
+  "ping_great":     "<:ping_great:1234560000000000070>",
+  "ping_good":      "<:ping_good:1234560000000000071>",
+  "ping_avg":       "<:ping_avg:1234560000000000072>",
+  "ping_bad":       "<:ping_bad:1234560000000000073>",
+  "ping_dead":      "<:ping_dead:1234560000000000074>"
+}

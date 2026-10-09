@@ -1,0 +1,28 @@
+{
+    "prefix": ",",
+    "owner_ids": [],
+    "invite_url": "https://discord.com/oauth2/authorize?client_id=1558002458565939261&permissions=8&integration_type=0&scope=bot",
+    "antinuke": {
+        "enabled": true,
+        "whitelisted_bots": [],
+        "whitelisted_users": [],
+        "punishment": "ban",
+        "thresholds": {
+            "ban": 3,
+            "kick": 5,
+            "channel_delete": 2,
+            "channel_create": 3,
+            "role_delete": 2,
+            "role_create": 3,
+            "webhook_create": 3
+        },
+        "time_window": 10
+    },
+    "antispam": {
+        "enabled": true,
+        "message_limit": 7,
+        "time_window": 5,
+        "punishment": "mute",
+        "mute_duration": 10
+    }
+}
